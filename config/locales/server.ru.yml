@@ -1,0 +1,5 @@
+ru:
+  site_settings:
+    discourse_chronos_enabled: "Включите плагин discourse-chronos. Если вы измените это, вы должны перестроить все посты с: \"rake posts:rebake\"."
+    discourse_chronos_default_formats: "Часто используемые форматы даты и времени, см.: <a target='_blank' rel='noopener' href='https://momentjs.com/docs/#/parsing/string-format/'>формат строки momentjs</a>"
+    discourse_chronos_default_timezones: "Список часовых поясов по умолчанию должен быть допустимым <a target='_blank' rel='noopener' href='https://en.wikipedia.org/wiki/List_of_tz_database_time_zones'>TZ</a>"
