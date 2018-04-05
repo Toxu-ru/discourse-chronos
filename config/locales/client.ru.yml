@@ -1,0 +1,16 @@
+ru:
+  js:
+    discourse_chronos:
+      title: Создать событие
+      create:
+        modal_title: Создать событие
+        form:
+          create: Создать
+          title: Настройка события
+          date_and_time_description: Установите дату и время события в вашем часовом поясе (%{timezone})
+          format_description: "Формат, используемый для отображения даты пользователю. Используйте \"\\T\\Z\" для отображения часового пояса пользователя в словах (Europe/Paris)"
+          timezones_title: Часовые пояса для отображения
+          timezones_description: Часовые пояса будут использоваться для отображения дат в режиме предварительного просмотра и отката назад.
+          recurring_title: Reccurence
+          recurring_description: Определение повторения события. <a target='_blank' rel='noopener' href='https://momentjs.com/docs/#/manipulating/add/'>Все доступные ключи</a>
+          recurring_none: No reccurence
